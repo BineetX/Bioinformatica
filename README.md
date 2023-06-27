@@ -5,52 +5,53 @@
 
 
 ## Table of contents
-- [**Tools**](#tools)
+- [Tools](#tools)
   - [Data Tools](#data-tools)
     - [Downloding](#downloding)
     - [Compressing](#compressing)
-- [**Techniques**](#techniques)
+- [Techniques](#techniques)
   - [Data Processing](#data-processing)
     - [Bioinformatics One-liners](#bioinformatics-one-liners)
   - [Command Line Operations](#command-line-operations)
-- [**Databases**](#databases)
+- [Databases](#databases)
   - [Disease Databases](#disease-databases)
   - [Interaction Databases](#interaction-databases)
-- [**Books**](#books)
-- [**Pipelines**](#pipelines)
-- [**Algorithms**](#algorithms)
-- [**Tutorials**](#tutorials)
-- [**Courses**](#courses)
+- [Books](#books)
+- [Pipelines](#pipelines)
+- [Algorithms](#algorithms)
+- [Tutorials](#tutorials)
+- [Courses](#courses)
 
 
-# **Tools**
+# Tools
 ## Data Tools
 ### Downloding
 ### Compressing
 
 
-# **Techniques**
+# Techniques
 ## Data Processing
 ### Bioinformatics One-liners
 
 ## Command Line Operations
 
 
-# **Databases**
+# Databases
 ## Disease Databases
 ## Interaction Databases
 
 
-# **Books**
+# Books
 
 
-# **Pipelines**
+# Pipelines
 
-# **Algorithms**
+# Algorithms
 
-# **Tutorials**
+# Tutorials
 
-# **Courses**
+# Courses
+
 
 
 
