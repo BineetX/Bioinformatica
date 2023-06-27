@@ -29,7 +29,7 @@
 ### Compressing
 
 
-# <span style="color:6096B4">**Techniques**
+# <span style="color:6096B4">**Techniques**</span>
 ## Data Processing
 ### Bioinformatics One-liners
 
