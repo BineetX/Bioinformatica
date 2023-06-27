@@ -23,32 +23,35 @@
 - [**Courses**](#courses)
 
 
-# <span style="color:6096B4">**Tools**
+# **Tools**
 ## Data Tools
 ### Downloding
 ### Compressing
 
 
-# <span style="color:6096B4">**Techniques**</span>
+# **Techniques**
 ## Data Processing
 ### Bioinformatics One-liners
 
 ## Command Line Operations
 
 
-# <span style="color:6096B4">**Databases**
+# **Databases**
 ## Disease Databases
 ## Interaction Databases
 
 
-# <span style="color:6096B4">**Books**
+# **Books**
 
 
-# <span style="color:6096B4">**Pipelines**
+# **Pipelines**
 
-# <span style="color:6096B4">**Algorithms**
+# **Algorithms**
 
-# <span style="color:6096B4">**Tutorials**
+# **Tutorials**
 
-# <span style="color:6096B4">**Courses**
+# **Courses**
+
+
+
 
