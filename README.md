@@ -24,13 +24,20 @@
 
 
 # Tools
+> Bioinformatics Tools and Softwares List
+---
 ## Data Tools
+---
 ### Downloding
+---
 ### Compressing
+---
 
 
 # Techniques
+> Some useful techniques in the Bioinformatics workflow
 ## Data Processing
+> Methods to extract, Analyze, and Preprocess Data
 ### Bioinformatics One-liners
 
 ## Command Line Operations
