@@ -7,9 +7,10 @@
 ## Table of contents
 - [Bioinformatica](#bioinformatica)
   - [Table of contents](#table-of-contents)
-- [Bioinfomatics Journals](#bioinfomatics-journals)
+- [Top Bioinfomatics Journals](#top-bioinfomatics-journals)
 - [Resources](#resources)
   - [Databases](#databases)
+  - [Web- Resources](#web--resources)
 - [Tools](#tools)
   - [Data Tools](#data-tools)
     - [Downloding](#downloding)
@@ -26,7 +27,7 @@
 - [Tutorials](#tutorials)
 - [Courses](#courses)
 
-# Bioinfomatics Journals
+# Top Bioinfomatics Journals
 > A curated list of top bioinformatics journals
 1. [Current Protocols in Bioinformatics](https://currentprotocols.onlinelibrary.wiley.com/journal/1934340x) | Impact Factor - 38.26
 2. [Nucleic Acids Research](https://academic.oup.com/nar/pages/About) | Impact Factor - 19.16
@@ -44,6 +45,7 @@
 
 # Resources
 ## Databases
+## Web- Resources
 
 # Tools
 > Bioinformatics Tools and Softwares List
@@ -75,7 +77,7 @@
 
 
 # Books
-
+1. [The Biostar Handbook: 2nd Edition](https://www.biostarhandbook.com/)|The Biostar Handbook is a comprehensive guide to bioinformatics, bridging biology, computer science, and statistical data analytics for genomic information processing. Developed over half a decade in a research university, it serves as a vital resource in accredited Ph.D. level training programs
 
 # Pipelines
 
