@@ -78,6 +78,7 @@
 
 # Books
 1. [The Biostar Handbook: 2nd Edition](https://www.biostarhandbook.com/)|The Biostar Handbook is a comprehensive guide to bioinformatics, bridging biology, computer science, and statistical data analytics for genomic information processing. Developed over half a decade in a research university, it serves as a vital resource in accredited Ph.D. level training programs
+2. [Bioinformatics: Sequence and Genome Analysis by David W. Mount](https://www.amazon.in/Bioinformatics-Sequence-Analysis-David-Mount/dp/0879697121)|This book provides a comprehensive introduction to bioinformatics, covering sequence alignment, gene prediction, molecular evolution, and other key topics.
 
 # Pipelines
 
