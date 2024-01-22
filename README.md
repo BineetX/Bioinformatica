@@ -73,13 +73,13 @@
 
 
 ## Disease Databases
-## Interaction DatabasesIn another user's repository, browse to the folder that contains the file you want to edit. Click the name of the file you want to edit.
+## Interaction Databases
 
 
 # Books
 1. [The Biostar Handbook: 2nd Edition](https://www.biostarhandbook.com/)|The Biostar Handbook is a comprehensive guide to bioinformatics, bridging biology, computer science, and statistical data analytics for genomic information processing. Developed over half a decade in a research university, it serves as a vital resource in accredited Ph.D. level training programs
 2. [Bioinformatics: Sequence and Genome Analysis by David W. Mount](https://www.amazon.in/Bioinformatics-Sequence-Analysis-David-Mount/dp/0879697121)|This book provides a comprehensive introduction to bioinformatics, covering sequence alignment, gene prediction, molecular evolution, and other key topics.
-3. [Introduction to Protein Architecture: The Structural Biology of Proteins](https://www.amazon.in/Introduction-Protein-Architecture-Structural-Proteins/dp/0198504748)Introduction to Protein Architecture explains the general characteristics of proteins that underlie the very great variety of folding patterns observed in nature. For specialists in structural biology.
+3. [Introduction to Protein Architecture: The Structural Biology of Proteins](https://www.amazon.in/Introduction-Protein-Architecture-Structural-Proteins/dp/0198504748)|Introduction to Protein Architecture explains the general characteristics of proteins that underlie the very great variety of folding patterns observed in nature. For specialists in structural biology.
 
 # Pipelines
 
