@@ -24,6 +24,7 @@
 - [Books](#books)
 - [Pipelines](#pipelines)
 - [Algorithms](#algorithms)
+  - [Basics](#basics)
 - [Tutorials](#tutorials)
 - [Courses](#courses)
 
@@ -84,6 +85,8 @@
 # Pipelines
 
 # Algorithms
+## Basics
+1. [Global Alignment - Needleman Wunsch](https://www.youtube.com/watch?v=ipp-pNRIp4g&ab_channel=Bioinformatica)
 
 # Tutorials
 
