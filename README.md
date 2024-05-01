@@ -51,6 +51,16 @@
 # Tools
 > Bioinformatics Tools and Softwares List
 ---
+## Programming
+### Languages
+
+### Tools
+1. [Anaconda](https://www.anaconda.com/)|
+
+2. [Miniconda](https://docs.anaconda.com/free/miniconda/index.html)|
+
+3. [R-Studio](https://posit.co/download/rstudio-desktop/)
+---
 ## Data Tools
 ---
 ### Downloding
@@ -66,7 +76,7 @@
 ### Bioinformatics One-liners
 > Onlier terminal commands to make life easier
  1. [Bioinformatics One-liners](https://github.com/stephenturner/oneliners) | Basic use of awk, sed, sort, cat, uniq etc
- 2. 
+ 2.
 
 
 ## Command Line Operations
@@ -92,8 +102,3 @@
 # Tutorials
 
 # Courses
-
-
-
-
-
